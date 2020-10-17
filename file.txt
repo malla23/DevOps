@@ -1,6 +1,0 @@
-this is a test file 
-
-
-
-We will clone this repo to the server
-
